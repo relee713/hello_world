@@ -1,12 +1,11 @@
-# Hello, World!
-My name is Rachael Lee and I'm a Business Analyst getting my master's degree at William and Mary. I majored in English and Psychology in undergrad (also at William and Mary) and am a passionate, well-rounded student excited to enter the workforce this coming 2025! 
-
-## Table of Contents
+# Hello, World! 
+This is my lovely Table of Contents
 - [Introduction](#introduction)
 - [Hobbies](#hobbies)
 - [Socials](#socials)
 
 ## Introduction
+My name is Rachael Lee and I'm a Business Analyst getting my master's degree at William and Mary. I majored in English and Psychology in undergrad (also at William and Mary) and am a passionate, well-rounded student excited to enter the workforce this coming 2025! 
 
 ## Hobbies
 I love reading, writing, and all things art related! My most recent projects have been throwing pottery, specifically a series of teapots! 
